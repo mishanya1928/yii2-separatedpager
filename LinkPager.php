@@ -18,7 +18,6 @@ use yii\helpers\Html;
  * separatedpager changes the default LinkPager behavior by always displaying the first and last
  * pages separated from the current pages by an ellipsis (or any other string specified).
  *
- * @author Justin Voelker <justin@justinvoelker.com>
  */
 class LinkPager extends \yii\widgets\LinkPager
 {
