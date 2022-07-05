@@ -1,0 +1,21 @@
+{
+    "name": "mikhail404/yii2-separatedpager",
+    "description": "A Yii2 LinkPager that displays the first and last pages inline with other pages.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","linkpager","pagination"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Oleynik Milhail",
+            "email": "mikhail404@inbox.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "mikhail404\\separatedpager\\": ""
+        }
+    }
+}
